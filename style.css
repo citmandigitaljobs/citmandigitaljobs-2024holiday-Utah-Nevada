@@ -751,7 +751,7 @@ a:link {
      margin-bottom: 40px;
     border-bottom: 20px;
       border-color: #c0c0c0;
-        border: 10px solid red;
+/*         border: 10px solid red; */
   }
 
   .content {
@@ -763,7 +763,7 @@ a:link {
 /*     flex-direction: column; */
 /*     justify-content: center; */
 /*     place-items: center; Shorthand for align-items and justify-items */
-    border: 10px solid blue;
+/*     border: 10px solid blue; */
   }
 
   .grid-content {
@@ -813,20 +813,17 @@ a:link {
   img {
     border-radius: 8px;
     /*     width: fit; */
-    margin: 10px;
-    max-height: 320px;
+    margin: 4px;
+    max-height: 300px;
     /*       object-fit: auto; */
     /*     align-content: center; */
     /*   object-position: center; */
     /*   justify-content: center; */
     filter: grayscale(50%);
     /*     align-items: center; */
-    border: 10px solid yellow;
+/*     border: 10px solid yellow; */
   }
-  
-  .p {
-    border: 10px solid purple;
-  }
+
 
   .text {
     color: charcoal;
